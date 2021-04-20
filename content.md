@@ -87,23 +87,54 @@ class:center,middle
 > Facts do not speak for themselves. They speak for or against competing theories. Facts divorced from theories or visions are mere isolated curiosities.
 >
 > - Thomas Sowell, _A Conflict of Visions_
+--
 
+
+## .center[Theories/Visions == Context]
+---
+
+# Giving Context
+--
+
+![img-left-55](images/vision_zero_table.png)
+--
+
+![img-right-40](images/vision_zero.png)
 
 ---
 
-# Ground Rules
+# Giving Context
+
+![img-center-100](images/jdg_5.png)
 
 ---
 
-# Introductions
+# Giving Context
+
+![img-center-100](images/jdg_6.png)
 
 ---
 
-# Resources
+# Giving Context
+
+![img-center-100](images/jdg_7.png)
 
 ---
 
-# Final Thought
+# Giving Context
+
+![img-center-38](images/jdg_10.png)
+
+---
+
+# Giving Context
+
+![img-center-100](images/jdg_13.jpg)
+
+---
+
+class:center,middle
+# Final Thoughts
 
 ---
 
