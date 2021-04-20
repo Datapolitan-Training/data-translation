@@ -24,7 +24,7 @@ class: center,middle
 
 ## Facilitator: Richard Dunks
 
-### Follow along at: 
+### Follow along at: http://bit.ly/data-trans
 
 #### See the code at: http://bit.ly/data-trans-code
 
