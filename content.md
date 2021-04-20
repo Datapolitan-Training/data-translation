@@ -134,7 +134,40 @@ class:center,middle
 ---
 
 class:center,middle
+# The Role of Data Analysis
+
+---
+
+# What is Data?
+--
+
++ Data tells a story about something that's happened
+--
+
++ Can describe what happened directly or indirectly
+--
+
+
+![img-center-80](images/311data_rev.png)
+
+---
+
+# What is Analysis?
+--
+
+> Analysis is simply the pursuit of understanding, usually through detailed inspection or comparison
+> 
+> - [Carter Hewgley](https://www.linkedin.com/in/carterhewgley/)
+
+---
+
 # Final Thoughts
+--
+
++ Data can tell a story, but doesn't speak for itself
+--
+
++ Good analysis is about telling a true and compelling story
 
 ---
 
