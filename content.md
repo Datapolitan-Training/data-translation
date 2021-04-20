@@ -26,7 +26,7 @@ class: center,middle
 
 ### Follow along at: 
 
-#### See the code at: 
+#### See the code at: http://bit.ly/data-trans-code
 
 <p class="license-text"><strong><strong>Data Translation</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
@@ -167,7 +167,7 @@ class:center,middle
 + Data can tell a story, but doesn't speak for itself
 --
 
-+ Good analysis is about telling a true and compelling story
++ Good "translation" is about telling a true and compelling story
 
 ---
 
